@@ -161,5 +161,4 @@ PRODUCT_COPY_FILES += \
     vendor/highscreen/giraffe/proprietary/vendor/lib/libwvm.so:system/vendor/lib/libwvm.so \
     vendor/highscreen/giraffe/proprietary/vendor/lib/mediadrm/libdrmclearkeyplugin.so:system/vendor/lib/mediadrm/libdrmclearkeyplugin.so \
     vendor/highscreen/giraffe/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so \
-    vendor/highscreen/giraffe/proprietary/xbin/mnld:system/xbin/mnld \
-    vendor/highscreen/giraffe/proprietary/lib/libstlport.so:system/lib/libstlport.so
+    vendor/highscreen/giraffe/proprietary/xbin/mnld:system/xbin/mnld
