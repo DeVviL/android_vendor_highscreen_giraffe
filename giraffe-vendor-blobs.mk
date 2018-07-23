@@ -49,6 +49,7 @@ PRODUCT_COPY_FILES += \
     vendor/highscreen/giraffe/proprietary/etc/firmware/mt6627/mt6627_fm_v5_coeff.bin:system/etc/firmware/mt6627/mt6627_fm_v5_coeff.bin \
     vendor/highscreen/giraffe/proprietary/etc/firmware/mt6627/mt6627_fm_v5_patch.bin:system/etc/firmware/mt6627/mt6627_fm_v5_patch.bin \
     vendor/highscreen/giraffe/proprietary/etc/mtk_omx_core.cfg:system/etc/mtk_omx_core.cfg \
+    vendor/highscreen/giraffe/proprietary/etc/init/mediacodec.rc:system/etc/init/mediacodec.rc \
     vendor/highscreen/giraffe/proprietary/etc/wifi/p2p_supplicant_overlay.conf:system/etc/wifi/p2p_supplicant_overlay.conf \
     vendor/highscreen/giraffe/proprietary/etc/wifi/wpa_supplicant.conf:system/etc/wifi/wpa_supplicant.conf \
     vendor/highscreen/giraffe/proprietary/etc/wifi/wpa_supplicant_overlay.conf:system/etc/wifi/wpa_supplicant_overlay.conf \
